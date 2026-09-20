@@ -240,4 +240,4 @@ This repository serves as the official landing page for Dragon Age: Origins. The
 **Get the most recent version of Dragon Age: Origins today!**
 
 ---
-**Last updated:** 2026-09-20 13:55:42 UTC
+**Last updated:** 2026-09-20 17:17:47 UTC
